@@ -322,7 +322,7 @@
 }
 
 /* members list */
-.theme-dark .members-1998pB {
+.theme-dark .members-1998pB, .members-1998pB>div {
     background-color: var(--primary);
 }
 
